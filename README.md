@@ -1,7 +1,7 @@
 # telegram_redirector
 pip install -r requirements.txt
 
-1. Add Telegram API token to variable
+1. Create config.py and add Telegram API token to variable 'token'
 2. Run redirector.py without args
 3. Invite @botname to group
 4. Type /start to get your chat id
